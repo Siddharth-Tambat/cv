@@ -1,0 +1,42 @@
+/* First CSS Project */
+
+/***********************Tag Selectors*********************/
+
+body {
+    background-color: #F5F5F5;
+}
+hr {
+    size: 2px;
+    border-style: hidden;
+    border-color: #FC5185;
+    height: 0px;
+    border-top-style: solid ;
+    border-top-width: 2px;
+}
+h1 {
+    color: #364F6B;
+}
+h3 {
+    color: #3FC1C9;
+}
+
+a:hover {
+    color: #FC5185;
+    font-size: 110%;
+}
+
+/***********************Class Selectors*********************/
+
+/*
+    .class_name {
+        property: value
+    }
+*/
+
+/***********************ID Selectors*********************/
+
+/*
+    #id_name {
+        property: value
+    }
+*/
