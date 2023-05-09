@@ -25,6 +25,11 @@ a:hover {
     font-size: 110%;
 }
 
+a.link {
+  color: #b735db;
+}
+
+
 /***********************Class Selectors*********************/
 
 /*
